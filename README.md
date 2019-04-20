@@ -10,7 +10,7 @@ The easiest way to do this is often (depending on your SHELL):
 source spack/share/spack/setup-env.sh 
 ````
 
-After downloading the kokkos-space GitHub repository, you simply need to run
+After downloading the kokkos-spack GitHub repository, you simply need to run
 ````
 spack repo add kokkos-spack/kokkos
 ````
@@ -116,8 +116,16 @@ Virtual Packages:
 ````
 
 ## Common Kokkos Examples
+Coming soon
+
+## Setting Up Kokkos Tutorials
+Coming soon
 
 ## Kokkos Kernels (and other dependent projects)
+Coming soon
 
 ## NVCC Wrapper
+Coming soon
+
+
 
